@@ -5,8 +5,8 @@ My name's Henrique and I am a software developer and student at [Escola Superior
 ---
 
 ## 🔧 Technologies & Tools  
-🖥️ **Languages:** Java, C#, JavaScript, Python, C, PHP, HTML, SQL, PL/SQL  
-🛠️ **Frameworks:** .NET, Vue, Laravel, Nuxt.js, Tailwind  
+🖥️ **Languages:** Java, C#, JavaScript, Python, C, PHP, HTML, SQL, PL/SQL, Kotlin (W.I.P)  
+🛠️ **Frameworks:** .NET, Vue, Laravel, Nuxt.js, Tailwind, React  
 📦 **Databases:** Oracle Database, Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis, Neo4j  
 🌍 **Software:** Docker, Git, Kubernetes  
 🎨 **Others:** Figma, Linux, Blender, Altair RapidMiner, JakartaEE, WSL, Jira, TensorFlow, Nvidia CUDA
